@@ -66,7 +66,7 @@
         </div>
 
         <div class="home-img">
-            <img src="img/Profile.png" alt="Profile picture">
+            <img src="assets/image/Profile.png" alt="Profile picture">
         </div>
     </section>
 
@@ -75,7 +75,7 @@
 
         <div class="portfolio-container">
             <div class="portfolio-box">
-                <img src="img/30-days-of-js.png" alt="Portfolio 1">
+                <img src="assets/image/30-days-of-js.png" alt="Portfolio 1">
 
                 <div class=" portfolio-layer">
                     <h4>30 Days of JS</h4>
@@ -89,7 +89,7 @@
             </div>
 
             <div class="portfolio-box">
-                <img src="img/the-final-brain-cell.png" alt="Portfolio 3">
+                <img src="assets/image/the-final-brain-cell.png" alt="Portfolio 2">
 
                 <div class="portfolio-layer">
                     <h4>The Final Brain Cell</h4>
@@ -104,7 +104,7 @@
             </div>
 
             <div class="portfolio-box">
-                <img src="img/github-user-info.png" alt="Portfolio 5">
+                <img src="assets/image/github-user-info.png" alt="Portfolio 3">
 
                 <div class="portfolio-layer">
                     <h4>Github User Info</h4>
