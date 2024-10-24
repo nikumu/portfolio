@@ -207,14 +207,12 @@ form {
     margin: 0.5rem auto;
     text-align: center;
     margin-bottom: 2rem;
-    /* border: solid 1px var(--color-03); */
 }
 
 form .input-box {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    /* border: solid 1px var(--color-02); */
 }
 
 form .input-box input,
@@ -354,10 +352,6 @@ footer {
     .service-container {
         flex-direction: column;
         align-items: center;
-    }
-
-    header {
-        background-color: var(--bg-color-01);
     }
 }
 
