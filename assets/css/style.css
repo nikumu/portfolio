@@ -254,7 +254,7 @@ footer {
     border-radius: 50%;
     font-size: 2rem;
     color: var(--main-color);
-    margin: 1.8rem 0.5rem;
+    margin: 1rem 0rem 1rem;
     transition: 0.5 ease;
 }
 
